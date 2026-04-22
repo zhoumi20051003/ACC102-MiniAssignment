@@ -26,7 +26,7 @@ This project analyzes the revenue and profitability of three leading Chinese hom
 3. All charts and results will be displayed automatically
 
 ## 6. Product Link & Demo
-GitHub Repository: [把你的GitHub链接贴这里]
+GitHub Repository: [https://github.com/zhoumi20051003/ACC102-MiniAssignment]
 
 ## 7. Limitations & Next Steps
 - Only 4 years of data are included.
