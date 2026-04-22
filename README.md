@@ -27,7 +27,7 @@ This data product provides a systematic financial analysis of three leading Chin
 3. View automated charts and analysis results
 
 ## 6. Product Link
-GitHub Repository: [你的链接]
+GitHub Repository: [https://github.com/zhoumi20051003/ACC102-MiniAssignment]
 
 ## 7. Limitations & Future Improvements
 - Only four years of data are included; longer time series can be added.
