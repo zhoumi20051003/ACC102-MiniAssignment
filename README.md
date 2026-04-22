@@ -1,34 +1,35 @@
 # ACC102 Data Product: Financial Analysis of Midea, Gree, Haier (2021–2024)
 
-## 1. Problem & User
-This project analyzes the revenue and profitability of three leading Chinese home appliance listed companies to show clear financial trends and business insights for academic learning and business analysis.
+## 1. Project Purpose
+This data product provides a systematic financial analysis of three leading Chinese home appliance listed companies. It aims to identify revenue trends, profitability differences, and competitive characteristics through Python-based data processing and visualization, supporting business understanding and decision-making.
 
-## 2. Data
+## 2. Data Information
 - Companies: Midea (000333), Gree Electric (000651), Haier Smart Home (600690)
-- Period: 2021 – 2024
+- Period: 2021–2024
 - Source: Official annual reports and public financial disclosures
-- Key data: operating revenue, cost of goods sold, net profit, gross margin, net profit margin
+- Key indicators: operating revenue, cost of goods sold, net profit, gross profit margin, net profit margin
 
-## 3. Methods
-- Python: pandas, matplotlib, numpy
-- Data cleaning and organization
-- Financial ratio calculation
-- Multi-dimensional visualization (trend, comparison, pie chart)
+## 3. Methodology
+- Python libraries: pandas, matplotlib, numpy
+- Data cleaning and standardization
+- Financial ratio calculation and comparison
+- Multi-dimensional visualization (trend, bar chart, pie chart)
+- Insight extraction and interpretation
 
-## 4. Key Findings
-- Midea has the largest revenue scale and continuous growth.
-- Gree achieves the highest gross margin and net profit margin.
-- Haier maintains stable revenue growth with steady profitability.
+## 4. Key Insights
+- Midea has the largest revenue scale and strong growth momentum.
+- Gree demonstrates outstanding profitability with high margin levels.
+- Haier maintains stable revenue and margin performance.
 
 ## 5. How to Run
-1. Open the .ipynb file in Jupyter or Google Colab
+1. Open the .ipynb notebook in Jupyter or Google Colab
 2. Run all cells sequentially
-3. All charts and results will be displayed automatically
+3. View automated charts and analysis results
 
-## 6. Product Link & Demo
-GitHub Repository: [https://github.com/zhoumi20051003/ACC102-MiniAssignment]
+## 6. Product Link
+GitHub Repository: [你的链接]
 
-## 7. Limitations & Next Steps
-- Only 4 years of data are included.
-- More financial indicators such as ROE and asset turnover can be added.
-- The analysis can be extended to more home appliance companies.
+## 7. Limitations & Future Improvements
+- Only four years of data are included; longer time series can be added.
+- More indicators such as ROE, asset turnover, and leverage can be integrated.
+- The product can be extended to interactive visualizations or automated updates.
